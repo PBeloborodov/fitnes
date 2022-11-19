@@ -20,6 +20,6 @@
   "homepage": "https://github.com/PBeloborodov/diplom_JS#readme",
   "devDependencies": {
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   }
 }
